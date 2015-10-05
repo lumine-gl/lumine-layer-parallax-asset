@@ -1,7 +1,7 @@
 {
-  "name": "lumine-layer-typeform",
+  "name": "lumine-layer-parallax-asset",
   "version": "0.0.0",
-  "description": "A Lumine Layer that renders HTML and CSS.",
+  "description": "A Lumine Layer that renders an image that parallaxes.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
@@ -10,13 +10,12 @@
   "author": "Will Shown <will.shown@microsoft.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lumine-gl/lumine-layer-typeform/issues"
+    "url": "https://github.com/lumine-gl/lumine-layer-parallax-asset/issues"
   },
-  "homepage": "https://github.com/lumine-gl/lumine-layer-typeform",
+  "homepage": "https://github.com/lumine-gl/lumine-layer-parallax-asset",
   "dependencies": {
     "lodash": "latest",
     "lumine": "lumine-gl/lumine",
-    "three": "latest",
-    "typeform": "lumine-gl/typeform"
+    "three": "latest"
   }
 }
