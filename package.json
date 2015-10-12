@@ -17,7 +17,7 @@
     "lodash": "latest",
     "lumine": "lumine-gl/lumine",
     "lumine-now": "lumine-gl/now",
-    "lumine-tween": "lumine-gl/lumine-tween",
+    "lumine-tween": "lumine-gl/tween",
     "three": "0.71"
   }
 }
